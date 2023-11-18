@@ -1,0 +1,22 @@
+---
+title: "My first totally original post"
+author: "Marius R"
+date: "2023-11-18"
+categories: [news, code, analysis]
+image: "Shark.jpeg"
+---
+
+This my first post with quarto. This is all super great. I love it.
+
+Blabalbabl
+
+![Sharks are great](Shark.jpeg) ![Yada](image.jpg) Even more Text here.
+
+![](image.jpg)
+
+```{r}
+f <- function(x){
+  x^2-2*x+3
+}
+f(4)
+```

@@ -1,0 +1,14 @@
+{
+  "hash": "041a0f58a4d5e5938969ee0671756fca",
+  "result": {
+    "markdown": "---\ntitle: \"My first totally original post\"\nauthor: \"Marius R\"\ndate: \"2023-11-18\"\ncategories: [news, code, analysis]\nimage: \"Shark.jpg\"\n---\n\n\nThis my first post with quarto. This is all super great. I love it.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nf <- function(x){\n  x^2-2*x+3\n}\nf(4)\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 11\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
