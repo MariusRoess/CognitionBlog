@@ -6,13 +6,16 @@ categories: [news, code, analysis]
 image: "Shark.jpeg"
 ---
 
-This my first post with quarto. This is all super great. I love it.
+This my first post with quarto. This is all super great. I love it. Why does it not work again?
 
 Blabalbabl
 
-![Sharks are great](Shark.jpeg) ![Yada](image.jpg) Even more Text here.
+![Sharks are great](Shark.jpeg) 
 
-![](image.jpg)
+Even more Text here.
+
+![Yada](image.jpg) 
+
 
 ```{r}
 f <- function(x){

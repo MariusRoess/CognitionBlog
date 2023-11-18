@@ -25,7 +25,7 @@
     "href": "posts/my-new-post/index.html",
     "title": "My first totally original post",
     "section": "",
-    "text": "This my first post with quarto. This is all super great. I love it.\n\nf &lt;- function(x){\n  x^2-2*x+3\n}\nf(4)\n\n[1] 11"
+    "text": "This my first post with quarto. This is all super great. I love it. Why does it not work again?\nBlabalbabl\n\n\n\nSharks are great\n\n\nEven more Text here.\n\n\n\nYada\n\n\n\nf &lt;- function(x){\n  x^2-2*x+3\n}\nf(4)\n\n[1] 11"
   },
   {
     "objectID": "index.html",
