@@ -10,6 +10,8 @@ This my first post with quarto. This is all super great. I love it. Why does it 
 
 Blabalbabl
 
+YES YES YESYS
+
 ![Sharks are great](Shark.jpeg) 
 
 Even more Text here.
